@@ -67,6 +67,12 @@ body {
     font-weight: bold;
 }
 
+.sub-content {
+    
+    margin-bottom: 30px;
+    
+}
+
 .sub-content h3 {
     color: orangered;
     font-size: 1.5em;
